@@ -1,0 +1,126 @@
+# Copyright (C) 2019 meks-easy-instagram-widget
+# This file is distributed under the same license as the meks-easy-instagram-widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: meks-easy-instagram-widget\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/class-instagram-options.php:83
+msgid "Settings"
+msgstr ""
+
+#: inc/class-instagram-options.php:106
+msgid "Access Token"
+msgstr ""
+
+#: inc/class-instagram-options.php:125, inc/class-instagram-options.php:126
+msgid "Meks Instagram Settings"
+msgstr ""
+
+#: inc/class-instagram-widget.php:52
+msgid "Meks Easy Instagram Widget"
+msgstr ""
+
+#: inc/class-instagram-widget.php:54
+msgid "Easily display Instagram photos with this widget."
+msgstr ""
+
+#: inc/class-instagram-widget.php:66
+msgid "Follow"
+msgstr ""
+
+#: inc/class-instagram-widget.php:326
+msgid "Invalid username or token."
+msgstr ""
+
+#: inc/class-instagram-widget.php:343
+msgid "Invalid username. Authorized users can only pull images from their own account."
+msgstr ""
+
+#: inc/class-instagram-widget.php:351, inc/class-instagram-widget.php:396
+msgid "Images not found. This may be a temporary problem. Please try again soon."
+msgstr ""
+
+#: inc/class-instagram-widget.php:381, inc/class-instagram-widget.php:389
+msgid "Instagram has returned empty data. Please authorize your Instagram account in the %s plugin settings %s."
+msgstr ""
+
+#: views/admin_html.php:2
+msgid "Title"
+msgstr ""
+
+#: views/admin_html.php:4
+msgid "Note: Leave empty for no title"
+msgstr ""
+
+#: views/admin_html.php:10
+msgid "Your Instagram username"
+msgstr ""
+
+#: views/admin_html.php:12
+msgid "Authorized users can use their own account only."
+msgstr ""
+
+#: views/admin_html.php:16
+msgid "Username or Hashtag"
+msgstr ""
+
+#: views/admin_html.php:18
+msgid "Multiple usernames and hastags are alowed.<br/>Example 1: @natgeo<br/>Example 2: #flowers<br/>Example 3: @natgeo, #flowers, @someother"
+msgstr ""
+
+#: views/admin_html.php:23
+msgid "Number of photos"
+msgstr ""
+
+#: views/admin_html.php:30
+msgid "Columns"
+msgstr ""
+
+#: views/admin_html.php:45
+msgid "Choose in how many columns you would like to display your photos"
+msgstr ""
+
+#: views/admin_html.php:50
+msgid "Photo spacing"
+msgstr ""
+
+#: views/admin_html.php:52
+msgid "Specify a spacing between your photos"
+msgstr ""
+
+#: views/admin_html.php:57
+msgid "Widget container size"
+msgstr ""
+
+#: views/admin_html.php:59
+msgid "If needed, fine tune the size of the entire widget to match your theme's sidebar width"
+msgstr ""
+
+#: views/admin_html.php:64
+msgid "Refresh interval"
+msgstr ""
+
+#: views/admin_html.php:66, views/admin_html.php:67
+msgid "Hours"
+msgstr ""
+
+#: views/admin_html.php:69
+msgid "Select a time interval in which the widget checks Instagram for new images"
+msgstr ""
+
+#: views/admin_html.php:73
+msgid "\"Follow\" link text"
+msgstr ""
+
+#: views/admin_html.php:75
+msgid "Specify a text for your \"follow\" link, or leave empty if you do not want to display the \"follow\" link"
+msgstr ""

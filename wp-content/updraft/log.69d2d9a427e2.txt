@@ -1,0 +1,401 @@
+0000.001 (0) Opened log file at time: Fri, 04 Sep 2020 23:42:11 +0000 on https://ferraritime.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.28 WP: 5.5.1 PHP: 7.3.18 (fpm-fcgi, Linux webm180.cluster028.gra.hosting.ovh.net 4.14.154-ovh-vps-grsec-zfs-classid #1 SMP Wed Nov 13 11:24:26 CET 2019 x86_64) MySQL: 5.6.48-log WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 300 memory_limit: 512M (used: 44.2M | 2M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.105 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.111 (0) Semaphore (fd, frt_options) being initialised
+0000.117 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.122 (0) Set semaphore last lock (fd) time to 2020-09-04 23:42:12
+0000.123 (0) Semaphore lock (fd) complete
+0000.131 (0) Backup run: resumption=0, nonce=69d2d9a427e2, file_nonce=69d2d9a427e2 begun at=1599262931 (1s ago), job type=backup
+0000.134 (0) Scheduling a resumption (1) after 300 seconds (1599263232) in case this run gets aborted
+0000.145 (0) Checking if we have a zip executable available
+0000.147 (0) Testing: /usr/bin/zip
+0000.156 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.158 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.160 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.161 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.162 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.163 (0) Binary zip: error (code: -1)
+0000.169 (0) Creation of backups of directories: beginning
+0000.175 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.938 (0) Total entities for the zip file: 911 directories, 5372 files (0 skipped as non-modified), 88.8 MB
+0004.970 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.076 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 100 files added (on-disk size: 156.2 KB)
+0005.129 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 200 files added (on-disk size: 156.2 KB)
+0005.177 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 300 files added (on-disk size: 156.2 KB)
+0005.226 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 400 files added (on-disk size: 156.2 KB)
+0005.277 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 500 files added (on-disk size: 156.2 KB)
+0005.280 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.7 MB, 5372 files batched, 501 (502) added so far); re-opening (prior size: 156.2 KB)
+0006.647 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 600 files added (on-disk size: 2478.7 KB)
+0006.694 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 700 files added (on-disk size: 2478.7 KB)
+0006.743 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 800 files added (on-disk size: 2478.7 KB)
+0006.793 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 900 files added (on-disk size: 2478.7 KB)
+0006.844 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1000 files added (on-disk size: 2478.7 KB)
+0006.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.2 MB, 5372 files batched, 501 (1003) added so far); re-opening (prior size: 2478.7 KB)
+0007.506 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1100 files added (on-disk size: 4412.2 KB)
+0007.562 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1200 files added (on-disk size: 4412.2 KB)
+0007.616 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1300 files added (on-disk size: 4412.2 KB)
+0007.672 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1400 files added (on-disk size: 4412.2 KB)
+0007.730 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1500 files added (on-disk size: 4412.2 KB)
+0007.735 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 5372 files batched, 501 (1504) added so far); re-opening (prior size: 4412.2 KB)
+0008.177 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1600 files added (on-disk size: 5102.2 KB)
+0008.236 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1700 files added (on-disk size: 5102.2 KB)
+0008.299 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1800 files added (on-disk size: 5102.2 KB)
+0008.360 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 1900 files added (on-disk size: 5102.2 KB)
+0008.417 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2000 files added (on-disk size: 5102.2 KB)
+0008.422 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (21.5 MB, 5372 files batched, 501 (2005) added so far); re-opening (prior size: 5102.2 KB)
+0010.910 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2100 files added (on-disk size: 10786.8 KB)
+0010.969 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2200 files added (on-disk size: 10786.8 KB)
+0011.038 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2300 files added (on-disk size: 10786.8 KB)
+0011.099 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2400 files added (on-disk size: 10786.8 KB)
+0011.162 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2500 files added (on-disk size: 10786.8 KB)
+0011.169 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.9 MB, 5372 files batched, 501 (2506) added so far); re-opening (prior size: 10786.8 KB)
+0011.961 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2600 files added (on-disk size: 11567.6 KB)
+0012.023 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2700 files added (on-disk size: 11567.6 KB)
+0012.086 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2800 files added (on-disk size: 11567.6 KB)
+0012.155 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 2900 files added (on-disk size: 11567.6 KB)
+0012.224 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3000 files added (on-disk size: 11567.6 KB)
+0012.231 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 MB, 5372 files batched, 501 (3007) added so far); re-opening (prior size: 11567.6 KB)
+0013.728 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3100 files added (on-disk size: 12759.6 KB)
+0013.796 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3200 files added (on-disk size: 12759.6 KB)
+0013.870 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3300 files added (on-disk size: 12759.6 KB)
+0013.944 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3400 files added (on-disk size: 12759.6 KB)
+0014.013 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3500 files added (on-disk size: 12759.6 KB)
+0014.020 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 5372 files batched, 501 (3508) added so far); re-opening (prior size: 12759.6 KB)
+0016.719 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3600 files added (on-disk size: 13999.2 KB)
+0016.793 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3700 files added (on-disk size: 13999.2 KB)
+0016.869 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3800 files added (on-disk size: 13999.2 KB)
+0016.953 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 3900 files added (on-disk size: 13999.2 KB)
+0017.026 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4000 files added (on-disk size: 13999.2 KB)
+0017.034 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.1 MB, 5372 files batched, 501 (4009) added so far); re-opening (prior size: 13999.2 KB)
+0020.543 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4100 files added (on-disk size: 21141.8 KB)
+0020.617 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4200 files added (on-disk size: 21141.8 KB)
+0020.703 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4300 files added (on-disk size: 21141.8 KB)
+0020.788 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4400 files added (on-disk size: 21141.8 KB)
+0020.872 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4500 files added (on-disk size: 21141.8 KB)
+0020.882 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.5 MB, 5372 files batched, 501 (4510) added so far); re-opening (prior size: 21141.8 KB)
+0023.143 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4600 files added (on-disk size: 26126.9 KB)
+0023.233 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4700 files added (on-disk size: 26126.9 KB)
+0023.321 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4800 files added (on-disk size: 26126.9 KB)
+0023.404 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 4900 files added (on-disk size: 26126.9 KB)
+0023.497 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 5000 files added (on-disk size: 26126.9 KB)
+0023.507 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.9 MB, 5372 files batched, 501 (5011) added so far); re-opening (prior size: 26126.9 KB)
+0025.582 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 5100 files added (on-disk size: 28371.2 KB)
+0025.662 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 5200 files added (on-disk size: 28371.2 KB)
+0025.745 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip.tmp: 5300 files added (on-disk size: 28371.2 KB)
+0028.842 (0) Created plugins zip (0) - 32535.6 KB in 28.7 s (1135 KB/s) (sha1: 488362de9cc6a38d882817a2a7ed0c2b981d7810, sha256: 91fd7e23aec927ce250cd270915a1bfc7c871a905ad0e8a17411654434decf52)
+0028.849 (0) Beginning creation of dump of themes (split every: 400 MB)
+0029.817 (0) Total entities for the zip file: 121 directories, 688 files (0 skipped as non-modified), 10.7 MB
+0029.863 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0029.911 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0029.956 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0029.999 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0030.044 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0030.046 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 688 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0031.983 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip.tmp: 600 files added (on-disk size: 2751.8 KB)
+0033.001 (0) Created themes zip (0) - 4006 KB in 4.1 s (965.4 KB/s) (sha1: 0e153337a04d2d59c231603d31cfbf43562c247c, sha256: 98f34f2fda6a333fcd2c6e79d22227cc547f31edea13f0fa7698988924e13f54)
+0033.005 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0033.006 (0) Looking for candidates to backup in: /home/julienf/www2/wp-content/uploads
+0033.028 (0) finding files: ShortpixelBackups: adding to list (1)
+0033.029 (0) finding files: redux: adding to list (2)
+0033.030 (0) finding files: .htaccess: adding to list (3)
+0033.031 (0) finding files: 2020: adding to list (4)
+0033.032 (0) finding files: .shortpixel-q-1: adding to list (5)
+0033.033 (0) finding files: Images: adding to list (6)
+0033.034 (0) finding files: merlin-wp: adding to list (7)
+0033.035 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0033.701 (0) Total entities for the zip file: 13 directories, 557 files (0 skipped as non-modified), 56.8 MB
+0033.745 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0033.786 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0033.830 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0033.834 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.5 MB, 557 files batched, 305 (305) added so far); re-opening (prior size: 0 KB)
+0036.227 (0) A useful amount of data was added after this amount of zip processing: 4.2 s (normalised: 4.1 s, rate: 6296.8 KB/s)
+0036.230 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.1515789031982, normalised_time=4.0655742591911, max_time=36.228404998779, data points known=1, old_max_bytes=26214400, new_max_bytes=140158192)
+0036.280 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip.tmp: 400 files added (on-disk size: 26205.9 KB)
+0036.328 (0) Zip: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip.tmp: 500 files added (on-disk size: 26205.9 KB)
+0040.118 (0) Created uploads zip (0) - 58297.4 KB in 7.1 s (8234.8 KB/s) (sha1: 8f484dce80fcffc0d95c892953f65f8f5680e449, sha256: 8a24f319506cb5d1f8f9b6e013002633b7acc0ac1f52d8b7415d3c8cbc6f18ba)
+0040.124 (0) Beginning backup of other directories found in the content directory (index: 0)
+0040.125 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0040.126 (0) Looking for candidates to backup in: /home/julienf/www2/wp-content
+0040.129 (0) finding files: index.php: adding to list (1)
+0040.130 (0) finding files: upgrade: skipping: excluded by options
+0040.131 (0) finding files: themes: skipping: this is the themes directory
+0040.133 (0) finding files: uploads: skipping: this is the uploads directory
+0040.134 (0) finding files: updraft: skipping: this is the updraft directory
+0040.136 (0) finding files: .htaccess: adding to list (2)
+0040.137 (0) finding files: plugins: skipping: this is the plugins directory
+0040.138 (0) finding files: cache: skipping: excluded by options
+0040.145 (0) Total entities for the zip file: 0 directories, 2 files (0 skipped as non-modified), 0 MB
+0040.163 (0) Created others zip (0) - 0.4 KB in 0 s (18.9 KB/s) (sha1: 3790bab0f77172e19db38afaf7cc89db0ef62ee7, sha256: 13bd08039c01008c6b452ef4796be91024a144e9306e791423e6ee4f1c2647ab)
+0040.173 (0) Saving backup status to database (elements: 8)
+0040.177 (0) Beginning creation of database dump (WordPress DB)
+0040.179 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0040.183 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0040.199 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `frt_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCR (truncated - 1228 bytes total)
+0040.202 (0) Binary mysqldump: error (code: -1)
+0040.215 (0) Table frt_options: Total expected rows (approximate): 285
+0040.267 (0) Table frt_options: Rows added in this batch (start page: 0; next: finished): 364 in 0.05 seconds
+0040.273 (0) Table frt_options: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_options.table.gz - 210.6 KB)
+0040.281 (0) Table frt_users: Total expected rows (approximate): 1
+0040.286 (0) Table frt_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0040.288 (0) Table frt_users: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_users.table.gz - 0.6 KB)
+0040.295 (0) Table frt_usermeta: Total expected rows (approximate): 31
+0040.299 (0) Table frt_usermeta: Rows added in this batch (start page: 0; next: finished): 31 in 0.00 seconds
+0040.301 (0) Table frt_usermeta: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_usermeta.table.gz - 1.3 KB)
+0040.308 (0) Table frt_actionscheduler_actions: Total expected rows (approximate): 23
+0040.313 (0) Table frt_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 23 in 0.00 seconds
+0040.315 (0) Table frt_actionscheduler_actions: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_actionscheduler_actions.table.gz - 1.5 KB)
+0040.323 (0) Table frt_actionscheduler_claims: Total expected rows (approximate): 0
+0040.326 (0) Table frt_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.327 (0) Table frt_actionscheduler_claims: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_actionscheduler_claims.table.gz - 0.3 KB)
+0040.335 (0) Table frt_actionscheduler_groups: Total expected rows (approximate): 2
+0040.339 (0) Table frt_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0040.342 (0) Table frt_actionscheduler_groups: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_actionscheduler_groups.table.gz - 0.4 KB)
+0040.349 (0) Table frt_actionscheduler_logs: Total expected rows (approximate): 61
+0040.353 (0) Table frt_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 67 in 0.00 seconds
+0040.356 (0) Table frt_actionscheduler_logs: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_actionscheduler_logs.table.gz - 1.2 KB)
+0040.363 (0) Table frt_commentmeta: Total expected rows (approximate): 0
+0040.368 (0) Table frt_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.370 (0) Table frt_commentmeta: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_commentmeta.table.gz - 0.4 KB)
+0040.378 (0) Table frt_comments: Total expected rows (approximate): 1
+0040.382 (0) Table frt_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0040.384 (0) Table frt_comments: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_comments.table.gz - 0.7 KB)
+0040.391 (0) Table frt_links: Total expected rows (approximate): 0
+0040.395 (0) Table frt_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.397 (0) Table frt_links: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_links.table.gz - 0.4 KB)
+0040.404 (0) Table frt_postmeta: Total expected rows (approximate): 269
+0040.412 (0) Table frt_postmeta: Rows added in this batch (start page: 0; next: finished): 291 in 0.01 seconds
+0040.415 (0) Table frt_postmeta: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_postmeta.table.gz - 9.8 KB)
+0040.424 (0) Table frt_posts: Total expected rows (approximate): 77
+0040.431 (0) Table frt_posts: Rows added in this batch (start page: 0; next: finished): 87 in 0.01 seconds
+0040.434 (0) Table frt_posts: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_posts.table.gz - 8.3 KB)
+0040.442 (0) Table frt_term_relationships: Total expected rows (approximate): 38
+0040.446 (0) Table frt_term_relationships: Rows added in this batch (start page: 0; next: finished): 42 in 0.00 seconds
+0040.449 (0) Table frt_term_relationships: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_term_relationships.table.gz - 0.5 KB)
+0040.456 (0) Table frt_term_taxonomy: Total expected rows (approximate): 14
+0040.459 (0) Table frt_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 15 in 0.00 seconds
+0040.461 (0) Table frt_term_taxonomy: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_term_taxonomy.table.gz - 0.5 KB)
+0040.469 (0) Table frt_termmeta: Total expected rows (approximate): 12
+0040.472 (0) Table frt_termmeta: Rows added in this batch (start page: 0; next: finished): 13 in 0.00 seconds
+0040.474 (0) Table frt_termmeta: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_termmeta.table.gz - 0.6 KB)
+0040.481 (0) Table frt_terms: Total expected rows (approximate): 14
+0040.484 (0) Table frt_terms: Rows added in this batch (start page: 0; next: finished): 15 in 0.00 seconds
+0040.486 (0) Table frt_terms: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_terms.table.gz - 0.6 KB)
+0040.494 (0) Table frt_yoast_seo_links: Total expected rows (approximate): 0
+0040.497 (0) Table frt_yoast_seo_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.498 (0) Table frt_yoast_seo_links: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_seo_links.table.gz - 0.4 KB)
+0040.506 (0) Table frt_yoast_seo_meta: Total expected rows (approximate): 1
+0040.509 (0) Table frt_yoast_seo_meta: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0040.511 (0) Table frt_yoast_seo_meta: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_seo_meta.table.gz - 0.3 KB)
+0040.518 (0) Table frt_redirection_404: Total expected rows (approximate): 125
+0040.522 (0) Table frt_redirection_404: Rows added in this batch (start page: 0; next: finished): 133 in 0.00 seconds
+0040.524 (0) Table frt_redirection_404: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_redirection_404.table.gz - 2.6 KB)
+0040.532 (0) Table frt_redirection_groups: Total expected rows (approximate): 2
+0040.538 (0) Table frt_redirection_groups: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0040.540 (0) Table frt_redirection_groups: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_redirection_groups.table.gz - 0.5 KB)
+0040.547 (0) Table frt_redirection_items: Total expected rows (approximate): 0
+0040.550 (0) Table frt_redirection_items: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0040.552 (0) Table frt_redirection_items: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_redirection_items.table.gz - 0.7 KB)
+0040.558 (0) Table frt_redirection_logs: Total expected rows (approximate): 0
+0040.562 (0) Table frt_redirection_logs: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.564 (0) Table frt_redirection_logs: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_redirection_logs.table.gz - 0.4 KB)
+0040.571 (0) Table frt_shortpixel_folders: Total expected rows (approximate): 0
+0040.575 (0) Table frt_shortpixel_folders: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.577 (0) Table frt_shortpixel_folders: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_shortpixel_folders.table.gz - 0.4 KB)
+0040.584 (0) Table frt_shortpixel_meta: Total expected rows (approximate): 0
+0040.589 (0) Table frt_shortpixel_meta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.591 (0) Table frt_shortpixel_meta: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_shortpixel_meta.table.gz - 0.5 KB)
+0040.598 (0) Table frt_wpforms_tasks_meta: Total expected rows (approximate): 6
+0040.601 (0) Table frt_wpforms_tasks_meta: Rows added in this batch (start page: 0; next: finished): 7 in 0.00 seconds
+0040.603 (0) Table frt_wpforms_tasks_meta: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_wpforms_tasks_meta.table.gz - 0.5 KB)
+0040.610 (0) Table frt_yoast_indexable: Total expected rows (approximate): 68
+0040.618 (0) Table frt_yoast_indexable: Rows added in this batch (start page: 0; next: finished): 74 in 0.01 seconds
+0040.621 (0) Table frt_yoast_indexable: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_indexable.table.gz - 6.1 KB)
+0040.627 (0) Table frt_yoast_indexable_hierarchy: Total expected rows (approximate): 0
+0040.632 (0) Table frt_yoast_indexable_hierarchy: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.634 (0) Table frt_yoast_indexable_hierarchy: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_indexable_hierarchy.table.gz - 0.4 KB)
+0040.641 (0) Table frt_yoast_migrations: Total expected rows (approximate): 17
+0040.646 (0) Table frt_yoast_migrations: Rows added in this batch (start page: 0; next: finished): 17 in 0.00 seconds
+0040.648 (0) Table frt_yoast_migrations: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_migrations.table.gz - 0.5 KB)
+0040.664 (0) Table frt_yoast_primary_term: Total expected rows (approximate): 0
+0040.669 (0) Table frt_yoast_primary_term: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0040.672 (0) Table frt_yoast_primary_term: finishing file (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_primary_term.table.gz - 0.5 KB)
+0040.676 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_options.table.gz (1/29): adding to final database dump
+0040.712 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_users.table.gz (2/29): adding to final database dump
+0040.714 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_usermeta.table.gz (3/29): adding to final database dump
+0040.717 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_actionscheduler_actions.table.gz (4/29): adding to final database dump
+0040.719 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_actionscheduler_claims.table.gz (5/29): adding to final database dump
+0040.722 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_actionscheduler_groups.table.gz (6/29): adding to final database dump
+0040.724 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_actionscheduler_logs.table.gz (7/29): adding to final database dump
+0040.727 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_commentmeta.table.gz (8/29): adding to final database dump
+0040.729 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_comments.table.gz (9/29): adding to final database dump
+0040.731 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_links.table.gz (10/29): adding to final database dump
+0040.734 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_postmeta.table.gz (11/29): adding to final database dump
+0040.738 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_posts.table.gz (12/29): adding to final database dump
+0040.742 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_term_relationships.table.gz (13/29): adding to final database dump
+0040.744 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_term_taxonomy.table.gz (14/29): adding to final database dump
+0040.747 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_termmeta.table.gz (15/29): adding to final database dump
+0040.750 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_terms.table.gz (16/29): adding to final database dump
+0040.752 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_seo_links.table.gz (17/29): adding to final database dump
+0040.754 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_seo_meta.table.gz (18/29): adding to final database dump
+0040.757 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_redirection_404.table.gz (19/29): adding to final database dump
+0040.773 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_redirection_groups.table.gz (20/29): adding to final database dump
+0040.775 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_redirection_items.table.gz (21/29): adding to final database dump
+0040.778 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_redirection_logs.table.gz (22/29): adding to final database dump
+0040.781 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_shortpixel_folders.table.gz (23/29): adding to final database dump
+0040.783 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_shortpixel_meta.table.gz (24/29): adding to final database dump
+0040.785 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_wpforms_tasks_meta.table.gz (25/29): adding to final database dump
+0040.787 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_indexable.table.gz (26/29): adding to final database dump
+0040.791 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_indexable_hierarchy.table.gz (27/29): adding to final database dump
+0040.793 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_migrations.table.gz (28/29): adding to final database dump
+0040.796 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db-table-frt_yoast_primary_term.table.gz (29/29): adding to final database dump
+0040.804 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db.gz: finished writing out complete database file (240 KB)
+0040.828 (0) Total database tables backed up: 29 (backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db.gz, size: 249849, sha1: bea1b0735128b5e901149859c7b4274302e9524c, sha256: bf5df0f5ef3f14a3abcadc84a3b9081a7322900441f9feebcaf597ebb0fca563)
+0040.837 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0040.838 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0040.840 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0040.841 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-others.zip: others: This file has not yet been successfully uploaded: will queue
+0040.842 (0) backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db.gz: db: This file has not yet been successfully uploaded: will queue
+0040.842 (0) Saving backup history. Total backup size: 92.9 MB
+0040.846 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0040.850 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0040.853 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-af11bf4cb224bed8331bbfe8fafd980c)
+0041.364 (0) Google Drive: creating path: /UpdraftPlus
+0042.197 (0) Google Drive: quota usage: used=0 MB, total=15360 MB, available=15360 MB
+0042.199 (0) Google Drive: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ZdDYR0_8g2Wbpk5VDxq2-mv6szXL7U-3)
+0042.580 (0) Googledrive chunked upload: 3.1 % uploaded (1048576)
+0042.720 (0) Googledrive chunked upload: 6.3 % uploaded (2097152)
+0042.861 (0) Googledrive chunked upload: 9.4 % uploaded (3145728)
+0042.986 (0) Googledrive chunked upload: 12.6 % uploaded (4194304)
+0043.120 (0) Googledrive chunked upload: 15.7 % uploaded (5242880)
+0043.246 (0) Googledrive chunked upload: 18.9 % uploaded (6291456)
+0043.386 (0) Googledrive chunked upload: 22 % uploaded (7340032)
+0043.521 (0) Googledrive chunked upload: 25.2 % uploaded (8388608)
+0043.663 (0) Googledrive chunked upload: 28.3 % uploaded (9437184)
+0043.791 (0) Googledrive chunked upload: 31.5 % uploaded (10485760)
+0043.928 (0) Googledrive chunked upload: 34.6 % uploaded (11534336)
+0044.064 (0) Googledrive chunked upload: 37.8 % uploaded (12582912)
+0044.204 (0) Googledrive chunked upload: 40.9 % uploaded (13631488)
+0044.354 (0) Googledrive chunked upload: 44.1 % uploaded (14680064)
+0044.520 (0) Googledrive chunked upload: 47.2 % uploaded (15728640)
+0044.671 (0) Googledrive chunked upload: 50.4 % uploaded (16777216)
+0044.825 (0) Googledrive chunked upload: 53.5 % uploaded (17825792)
+0044.973 (0) Googledrive chunked upload: 56.7 % uploaded (18874368)
+0045.125 (0) Googledrive chunked upload: 59.8 % uploaded (19922944)
+0045.270 (0) Googledrive chunked upload: 62.9 % uploaded (20971520)
+0045.417 (0) Googledrive chunked upload: 66.1 % uploaded (22020096)
+0045.558 (0) Googledrive chunked upload: 69.2 % uploaded (23068672)
+0045.718 (0) Googledrive chunked upload: 72.4 % uploaded (24117248)
+0045.861 (0) Googledrive chunked upload: 75.5 % uploaded (25165824)
+0045.993 (0) Googledrive chunked upload: 78.7 % uploaded (26214400)
+0046.138 (0) Googledrive chunked upload: 81.8 % uploaded (27262976)
+0046.278 (0) Googledrive chunked upload: 85 % uploaded (28311552)
+0046.432 (0) Googledrive chunked upload: 88.1 % uploaded (29360128)
+0046.571 (0) Googledrive chunked upload: 91.3 % uploaded (30408704)
+0046.721 (0) Googledrive chunked upload: 94.4 % uploaded (31457280)
+0046.874 (0) Googledrive chunked upload: 97.6 % uploaded (32505856)
+0047.981 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0047.989 (0) Google Drive: OK: Archive backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip uploaded in 5.79 seconds
+0047.991 (0) Recording as successfully uploaded: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip
+0047.999 (0) Deleting local file: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-plugins.zip: OK
+0048.264 (0) Google Drive: quota usage: used=31.8 MB, total=15360 MB, available=15328.2 MB
+0048.266 (0) Google Drive: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip: Attempting to upload to Google Drive (into folder id: 1ZdDYR0_8g2Wbpk5VDxq2-mv6szXL7U-3)
+0048.668 (0) Googledrive chunked upload: 25.6 % uploaded (1048576)
+0048.858 (0) Googledrive chunked upload: 51.1 % uploaded (2097152)
+0049.003 (0) Googledrive chunked upload: 76.7 % uploaded (3145728)
+0049.965 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0049.970 (0) Google Drive: OK: Archive backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip uploaded in 1.7 seconds
+0049.972 (0) Recording as successfully uploaded: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip
+0049.975 (0) Deleting local file: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-themes.zip: OK
+0050.237 (0) Google Drive: quota usage: used=35.7 MB, total=15360 MB, available=15324.3 MB
+0050.241 (0) Google Drive: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ZdDYR0_8g2Wbpk5VDxq2-mv6szXL7U-3)
+0050.633 (0) Googledrive chunked upload: 1.8 % uploaded (1048576)
+0050.786 (0) Googledrive chunked upload: 3.5 % uploaded (2097152)
+0050.929 (0) Googledrive chunked upload: 5.3 % uploaded (3145728)
+0051.075 (0) Googledrive chunked upload: 7 % uploaded (4194304)
+0051.228 (0) Googledrive chunked upload: 8.8 % uploaded (5242880)
+0051.482 (0) Googledrive chunked upload: 10.5 % uploaded (6291456)
+0051.640 (0) Googledrive chunked upload: 12.3 % uploaded (7340032)
+0051.827 (0) Googledrive chunked upload: 14.1 % uploaded (8388608)
+0051.987 (0) Googledrive chunked upload: 15.8 % uploaded (9437184)
+0052.230 (0) Googledrive chunked upload: 17.6 % uploaded (10485760)
+0052.438 (0) Googledrive chunked upload: 19.3 % uploaded (11534336)
+0052.591 (0) Googledrive chunked upload: 21.1 % uploaded (12582912)
+0052.886 (0) Googledrive chunked upload: 22.8 % uploaded (13631488)
+0053.062 (0) Googledrive chunked upload: 24.6 % uploaded (14680064)
+0053.209 (0) Googledrive chunked upload: 26.3 % uploaded (15728640)
+0053.356 (0) Googledrive chunked upload: 28.1 % uploaded (16777216)
+0053.505 (0) Googledrive chunked upload: 29.9 % uploaded (17825792)
+0053.665 (0) Googledrive chunked upload: 31.6 % uploaded (18874368)
+0053.854 (0) Googledrive chunked upload: 33.4 % uploaded (19922944)
+0054.002 (0) Googledrive chunked upload: 35.1 % uploaded (20971520)
+0054.154 (0) Googledrive chunked upload: 36.9 % uploaded (22020096)
+0054.319 (0) Googledrive chunked upload: 38.6 % uploaded (23068672)
+0054.466 (0) Googledrive chunked upload: 40.4 % uploaded (24117248)
+0054.609 (0) Googledrive chunked upload: 42.2 % uploaded (25165824)
+0054.762 (0) Googledrive chunked upload: 43.9 % uploaded (26214400)
+0054.904 (0) Googledrive chunked upload: 45.7 % uploaded (27262976)
+0055.054 (0) Googledrive chunked upload: 47.4 % uploaded (28311552)
+0055.200 (0) Googledrive chunked upload: 49.2 % uploaded (29360128)
+0055.353 (0) Googledrive chunked upload: 50.9 % uploaded (30408704)
+0055.504 (0) Googledrive chunked upload: 52.7 % uploaded (31457280)
+0055.670 (0) Googledrive chunked upload: 54.5 % uploaded (32505856)
+0055.826 (0) Googledrive chunked upload: 56.2 % uploaded (33554432)
+0055.977 (0) Googledrive chunked upload: 58 % uploaded (34603008)
+0056.142 (0) Googledrive chunked upload: 59.7 % uploaded (35651584)
+0056.286 (0) Googledrive chunked upload: 61.5 % uploaded (36700160)
+0056.436 (0) Googledrive chunked upload: 63.2 % uploaded (37748736)
+0056.578 (0) Googledrive chunked upload: 65 % uploaded (38797312)
+0056.733 (0) Googledrive chunked upload: 66.7 % uploaded (39845888)
+0056.875 (0) Googledrive chunked upload: 68.5 % uploaded (40894464)
+0057.020 (0) Googledrive chunked upload: 70.3 % uploaded (41943040)
+0057.172 (0) Googledrive chunked upload: 72 % uploaded (42991616)
+0057.323 (0) Googledrive chunked upload: 73.8 % uploaded (44040192)
+0057.466 (0) Googledrive chunked upload: 75.5 % uploaded (45088768)
+0057.609 (0) Googledrive chunked upload: 77.3 % uploaded (46137344)
+0057.821 (0) Googledrive chunked upload: 79 % uploaded (47185920)
+0057.972 (0) Googledrive chunked upload: 80.8 % uploaded (48234496)
+0058.127 (0) Googledrive chunked upload: 82.6 % uploaded (49283072)
+0058.269 (0) Googledrive chunked upload: 84.3 % uploaded (50331648)
+0058.417 (0) Googledrive chunked upload: 86.1 % uploaded (51380224)
+0058.569 (0) Googledrive chunked upload: 87.8 % uploaded (52428800)
+0058.717 (0) Googledrive chunked upload: 89.6 % uploaded (53477376)
+0058.863 (0) Googledrive chunked upload: 91.3 % uploaded (54525952)
+0059.018 (0) Googledrive chunked upload: 93.1 % uploaded (55574528)
+0059.162 (0) Googledrive chunked upload: 94.9 % uploaded (56623104)
+0059.309 (0) Googledrive chunked upload: 96.6 % uploaded (57671680)
+0059.454 (0) Googledrive chunked upload: 98.4 % uploaded (58720256)
+0060.430 (0) Googledrive chunked upload: 100 % uploaded (58720256)
+0060.435 (0) Google Drive: OK: Archive backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip uploaded in 10.19 seconds
+0060.437 (0) Recording as successfully uploaded: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip
+0060.446 (0) Deleting local file: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-uploads.zip: OK
+0060.699 (0) Google Drive: quota usage: used=92.6 MB, total=15360 MB, available=15267.4 MB
+0060.701 (0) Google Drive: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-others.zip: Attempting to upload to Google Drive (into folder id: 1ZdDYR0_8g2Wbpk5VDxq2-mv6szXL7U-3)
+0061.690 (0) Googledrive chunked upload: 100 % uploaded
+0061.696 (0) Google Drive: OK: Archive backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-others.zip uploaded in 0.99 seconds
+0061.698 (0) Recording as successfully uploaded: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-others.zip
+0061.701 (0) Deleting local file: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-others.zip: OK
+0061.978 (0) Google Drive: quota usage: used=92.6 MB, total=15360 MB, available=15267.4 MB
+0061.980 (0) Google Drive: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db.gz: Attempting to upload to Google Drive (into folder id: 1ZdDYR0_8g2Wbpk5VDxq2-mv6szXL7U-3)
+0063.300 (0) Googledrive chunked upload: 100 % uploaded
+0063.305 (0) Google Drive: OK: Archive backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db.gz uploaded in 1.32 seconds
+0063.306 (0) Recording as successfully uploaded: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db.gz
+0063.309 (0) Deleting local file: backup_2020-09-04-2342_FerrariTime_69d2d9a427e2-db.gz: OK
+0063.313 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0063.315 (0) Number of backup sets in history: 1; groups (db): 1
+0063.317 (0) Examining (for databases) backup set with group_id=0, nonce=69d2d9a427e2, datestamp=1599262931 (Sep 04 2020 23:42:11)
+0063.318 (0) This backup set is the backup set just made, so will not be deleted.
+0063.318 (0) Number of backup sets in history: 1; groups (files): 1
+0063.319 (0) Examining (for files) backup set with nonce=69d2d9a427e2, datestamp=1599262931 (Sep 04 2020 23:42:11)
+0063.319 (0) This backup set is the backup set just made, so will not be deleted.
+0063.320 (0) This backup set is the backup set just made, so will not be deleted.
+0063.320 (0) This backup set is the backup set just made, so will not be deleted.
+0063.320 (0) This backup set is the backup set just made, so will not be deleted.
+0063.320 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.321 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0063.325 (0) Resume backup (69d2d9a427e2, 0): finish run
+0063.329 (0) Decremented the semaphore (fd) by 1
+0063.331 (0) Semaphore (fd) unlocked
+0063.332 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0063.336 (0) No email will/can be sent - the user has not configured an email address.
+0063.337 (0) The backup apparently succeeded and is now complete

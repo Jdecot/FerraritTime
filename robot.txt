@@ -1,0 +1,17 @@
+User-agent: *
+
+Disallow: /wp-admin/
+
+Disallow: /wp-includes/
+
+Disallow: /wp-content/
+
+allow: /wp-content/uploads/
+
+allow: /wp-content/cache/
+
+Disallow: /cgi-bin
+
+Disallow: /wp-login.php
+
+Sitemap: https://ferraritime.com/sitemap_index.xml

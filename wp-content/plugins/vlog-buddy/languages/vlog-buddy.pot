@@ -1,0 +1,170 @@
+# Copyright (C) 2019 vlog-buddy
+# This file is distributed under the same license as the vlog-buddy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: vlog-buddy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/widgets/adsense.php:11
+msgid "You can place Google AdSense or any JavaScript related code inside this widget"
+msgstr ""
+
+#: inc/widgets/adsense.php:13
+msgid "Vlog Adsense"
+msgstr ""
+
+#: inc/widgets/adsense.php:63, inc/widgets/categories.php:64, inc/widgets/posts.php:226, inc/widgets/series.php:64
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/adsense.php:65
+msgid "Leave empty for no title"
+msgstr ""
+
+#: inc/widgets/adsense.php:69
+msgid "Adsense Code"
+msgstr ""
+
+#: inc/widgets/adsense.php:71
+msgid "Place your Google Adsense code or any JavaScript related advertising code."
+msgstr ""
+
+#: inc/widgets/adsense.php:77
+msgid "Expand widget area to 300px"
+msgstr ""
+
+#: inc/widgets/adsense.php:79
+msgid "Check this option if you are using 300px wide adsense so it can fit your widget area"
+msgstr ""
+
+#: inc/widgets/categories.php:8
+msgid "Display your category list with this widget"
+msgstr ""
+
+#: inc/widgets/categories.php:10
+msgid "Vlog Categories"
+msgstr ""
+
+#: inc/widgets/categories.php:13
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/categories.php:79, inc/widgets/series.php:79
+msgid "Show post count?"
+msgstr ""
+
+#: inc/widgets/posts.php:8
+msgid "Display your posts with this widget"
+msgstr ""
+
+#: inc/widgets/posts.php:10
+msgid "Vlog Posts"
+msgstr ""
+
+#: inc/widgets/posts.php:13
+msgid "Posts"
+msgstr ""
+
+#: inc/widgets/posts.php:235
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/posts.php:241
+msgid "Apply slider"
+msgstr ""
+
+#: inc/widgets/posts.php:245
+msgid "Posts per slide"
+msgstr ""
+
+#: inc/widgets/posts.php:251
+msgid "Display category link"
+msgstr ""
+
+#: inc/widgets/posts.php:263
+msgid "Or choose manually"
+msgstr ""
+
+#: inc/widgets/posts.php:265
+msgid "Specify post ids separated by comma if you want to select only those posts. i.e. 213,32,12,45 Note: you can also choose pages as well as custom post types"
+msgstr ""
+
+#: inc/widgets/posts.php:275
+msgid "Auto detect category"
+msgstr ""
+
+#: inc/widgets/posts.php:276
+msgid "If sidebar is used on single post template, display posts from current post category "
+msgstr ""
+
+#: inc/widgets/posts.php:287
+msgid "Auto detect serie"
+msgstr ""
+
+#: inc/widgets/posts.php:288
+msgid "If sidebar is used on single post template, display posts from current post serie "
+msgstr ""
+
+#: inc/widgets/posts.php:294
+msgid "Tagged with"
+msgstr ""
+
+#: inc/widgets/posts.php:296
+msgid "Specify one or more tags separated by comma. i.e. life, cooking, funny moments"
+msgstr ""
+
+#: inc/widgets/posts.php:304
+msgid "Only select posts which are not older than"
+msgstr ""
+
+#: inc/widgets/posts.php:322
+msgid "Order by:"
+msgstr ""
+
+#: inc/widgets/posts.php:336
+msgid "Format:"
+msgstr ""
+
+#: inc/widgets/posts.php:349
+msgid "Choose from categories:"
+msgstr ""
+
+#: inc/widgets/posts.php:360
+msgid "Choose from series:"
+msgstr ""
+
+#: inc/widgets/posts.php:370
+msgid "Small (list)"
+msgstr ""
+
+#: inc/widgets/posts.php:371
+msgid "Large"
+msgstr ""
+
+#: inc/widgets/posts.php:375
+msgid "Posts style:"
+msgstr ""
+
+#: inc/widgets/posts.php:389
+msgid "Display meta data:"
+msgstr ""
+
+#: inc/widgets/series.php:8
+msgid "Display your series (playlists) with this widget"
+msgstr ""
+
+#: inc/widgets/series.php:10
+msgid "Vlog Series (Playlists)"
+msgstr ""
+
+#: inc/widgets/series.php:13
+msgid "Playlists"
+msgstr ""
